@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "34A7B81C-3D62-4098-A5F6-B52CDA713559"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AA6CD63-6D4C-4C0B-9800-5D3263CE763A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eCommerceApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C0971CC-9C46-4607-ADC1-571C4CC02C60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eCommerceApp/Controller/DetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DetailVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1C0971CC-9C46-4607-ADC1-571C4CC02C60 - d46a5825cb57fdad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eCommerceApp.DetailVC.myProducts.getter : Swift.Optional&lt;eCommerceApp.MyProduct&gt;"
+                  moduleName = "eCommerceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selcuk/Documents/project/eCommerceApp/eCommerceApp/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "235">
+               </Location>
+               <Location
+                  uuid = "1C0971CC-9C46-4607-ADC1-571C4CC02C60 - 420440fe0c9d5d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eCommerceApp.DetailVC.myProducts.setter : Swift.Optional&lt;eCommerceApp.MyProduct&gt;"
+                  moduleName = "eCommerceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selcuk/Documents/project/eCommerceApp/eCommerceApp/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "1C0971CC-9C46-4607-ADC1-571C4CC02C60 - 4ae85343959d7dd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eCommerceApp.DetailVC.myProducts.modify : Swift.Optional&lt;eCommerceApp.MyProduct&gt;"
+                  moduleName = "eCommerceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selcuk/Documents/project/eCommerceApp/eCommerceApp/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "1C0971CC-9C46-4607-ADC1-571C4CC02C60 - fe0d765f6b8ecd57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eCommerceApp.DetailVC.myProducts.modify : Swift.Optional&lt;eCommerceApp.MyProduct&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "eCommerceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selcuk/Documents/project/eCommerceApp/eCommerceApp/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "1C0971CC-9C46-4607-ADC1-571C4CC02C60 - b1b7b39b511df22a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eCommerceApp.DetailVC.init(style: __C.UITableViewStyle) -&gt; eCommerceApp.DetailVC"
+                  moduleName = "eCommerceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selcuk/Documents/project/eCommerceApp/eCommerceApp/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "1C0971CC-9C46-4607-ADC1-571C4CC02C60 - 162480b5ef96dc96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eCommerceApp.DetailVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; eCommerceApp.DetailVC"
+                  moduleName = "eCommerceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selcuk/Documents/project/eCommerceApp/eCommerceApp/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "157">
+               </Location>
+               <Location
+                  uuid = "1C0971CC-9C46-4607-ADC1-571C4CC02C60 - 82035e82c5eb3470"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eCommerceApp.DetailVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;eCommerceApp.DetailVC&gt;"
+                  moduleName = "eCommerceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selcuk/Documents/project/eCommerceApp/eCommerceApp/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "114">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
